@@ -1,0 +1,17 @@
+/* if the picture is displayed */
+/* #myimg{
+    width: 200px;
+} */
+
+/* if the picture is not displayed */
+/* #myimg{
+    width: 200px;
+    display: none;
+} */
+
+/* if the picture is hidden */
+#myimg{
+    width: 200px;
+    visibility: hidden;
+    visibility: hidden;
+}
